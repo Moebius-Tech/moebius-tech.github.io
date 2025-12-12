@@ -1,0 +1,12 @@
+{{ with .Translations }}
+    {{ range . }}
+      {{ if eq .Language.Lang $.Language.Lang }}
+        <a class="active" aria-current="page" href="{{ .RelPermalink }}", style="text-decoration:none;">{{ site.Params.languageFlag }}</a>
+      {{ else }}
+        <a href="{{ .RelPermalink }}", style="text-decoration:none;">{{ site.Params.languageFlag }}</a>
+      {{ end }}
+    {{ end }}
+{{ end }}
+{{ range .Site.Menus.main }}
+<a href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}

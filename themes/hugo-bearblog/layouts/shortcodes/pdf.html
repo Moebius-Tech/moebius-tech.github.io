@@ -1,0 +1,5 @@
+{{ range readDir "static/Folder1" }}
+  {{ if (findRE ".pdf$" .Name) }}
+  <a href="/Folder1/{{ .Name }}">{{ .Name }}</a> <br>
+  {{ end }}
+{{ end }}

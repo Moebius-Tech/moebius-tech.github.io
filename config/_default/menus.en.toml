@@ -1,0 +1,13 @@
+[[main]]
+  name = 'Moebius'
+  pageRef = '/'
+  weight = 10
+[[main]]
+  name = 'Möbius SOL'
+  pageRef = '/moebius-sol'
+  weight = 40
+
+[[main]]
+  name = 'External Links'
+  pageRef = '/links'
+  weight = 50
