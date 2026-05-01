@@ -21,6 +21,7 @@ title = "External Links"
 Moebius had a sporting branch that sometimes played innebandy, however, it is currently inactive. To find out more about this Möbius sport has a Facebook page:
 [Facebook](https://www.facebook.com/groups/995975683755553/)
 
+[Want something for the shop?](https://docs.google.com/forms/d/e/1FAIpQLSfx6-tQL_ONTX-kjNsnxzjoMd8MH3prFYbWhi32qUf2_xG_ew/viewform)
 ## Other links 
 
 [IUPAK](https://iupak.utn.se/)

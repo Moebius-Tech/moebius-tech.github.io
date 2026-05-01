@@ -2,7 +2,8 @@
 title = "Möbius"
 +++
 
-# Möbius
+![Möbius](/images/moebius.webp)
+<!-- # Möbius -->
 
 Moebius är sektionsföreningen för matematiksektionen (MAT) inom [Uppsala Teknolog- och Naturvetarkår](https://utn.se/en), men alla är välkomna.
  Vi har en lokal i [hus 18](https://link.mazemap.com/ITtb4vV4) (mittenofficersvillan) på campus Ångström.
@@ -11,7 +12,7 @@ Här kan du hitta andra likasinnade eller oliksinnade, som gärna spelar spel, k
 
 ## Vad är en sektion och en sektionsförening?
 
-Uppsala teknolog- och naturvetarkår (UTN) delar upp alla studenter i en av 20 olika lådor, så kallade sektioner. Det finns sektioner för ämneslärare, teknisk fysik och matematik bland flera andra. Matematikernas sektion heter MAT. Alla sektioner har en tillhörande sektionsförening som representerar studenterna i sektionen. Möbius är matematikernas sektionsförening. En sektionsförening har i uppdrag att bland annat studiebevaka för studenterna.
+Uppsala teknolog- och naturvetarkår (UTN) delar upp alla studenter i en av 20 olika lådor, så kallade sektioner. Det finns sektioner för ämneslärare, teknisk fysik och matematik bland flera andra. Matematikernas sektion heter MAT. Alla sektioner har en tillhörande sektionsförening som representerar studenterna i sektionen. Möbius är matematikernas sektionsförening. En sektionsförening har i uppdrag att bland annat studiebevaka för studenterna. Sektionerna har också sektionsklädsel, de flesta andra sektioner har overaller eller labrockar i olika färger. De flesta matematiker väljer att ha en svart morgonrock som sektionsklädsel, men andra plagg förekommer. Moebius säljer svarta morgonrockar med broderad Möbiuslogga på ryggen.
 
 ## Vad är studiebevakning?
 
@@ -29,28 +30,6 @@ Vill man ha information om vad det är som sker i och kring Moebius är det bäs
 
 Se [länkar](links.sv.md).
 
-## Dokument
-
-[Spel](/dokument/spel.pdf)
-
-[Stadgar](/dokument/stadgar.pdf)
-
-[Arbetsordning](/dokument/arbetsordning.pdf)
-
-[Ordensband och medaljer](/dokument/ordensband.pdf)
-
-[Dokumentmall](/dokument/mall.zip)
-
-[Önskemål till kiosken](https://docs.google.com/forms/d/e/1FAIpQLSfx6-tQL_ONTX-kjNsnxzjoMd8MH3prFYbWhi32qUf2_xG_ew/viewform)
-
-[Gamla tentor (temporär lösning)](https://drive.google.com/drive/folders/1ETstHLmkj21zCpF3egTAo0l-XJjlZQ84?usp=sharing)
-
-[Sångboken](/dokument/Sångbok.pdf)
-
-<!-- <a href="gamla-tentor" target"_blank">Gamla tentor</a> -->
-
-<!-- Om du vill lägga in en tenta, skicka tentan till nvm-tech@utn.se. Namnge tentan "Kurs_ååmmdd.pdf", är det endast är lösningar/lösningsförslag, namnge filen "Kurs_ååmmdd_losn.pdf". Om det är både tentan och lösningar, namnge filen "Kurs_ååmmdd_mlosn.pdf". -->
-
 
 ## Kontakta Möbius
 Bästa sättet att få kontakt med föreningen är att kontakta ordförande, men det går bra att kontakta någon av de andra i styrelsen också.
@@ -59,19 +38,19 @@ Styrelsen har en mandatperiod på ett år och väljs på vårmötet i mars eller
 
 |Styrelsen                        ||                        |
 |------------------------|-|------------------------|
-| Ordförande Moebius     | Minoo Sjögren | mat-ordf@utn.se        |
-| Vice Ordförande Möbius | Frida Nordahl | mat-vice@utn.se        |
-| Kassör Moebius         | 	Oskar Lutterbeck | mat-kassor@utn.se      |
-| Sekreterare Möbius     | 	Ellen Pelander | mat-sekreterare@utn.se |
-| Klubbmästare Moebius   | Olle Nilsson | mat-klubb@utn.se       |
-| Lokalansvarig Möbius  | Simon Lindblom | mat-lokal@utn.se       |
-| Utbildningsansvarig Moebius  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
-| Studiesocialt ansvarig Möbius  | Aamos Ranta | mat-soc@utn.se       |
+| Ordförande      | Ebba Brunvall | mat-ordf@utn.se        |
+| Vice Ordförande | Tea Rännar | mat-vice@utn.se        |
+| Kassör          | 	Emiliano Lievano Parmstrand | mat-kassor@utn.se      |
+| Sekreterare     | 	Axel Lönnstedt | mat-sekreterare@utn.se |
+| Klubbmästare   | Vincent Villanueva | mat-klubb@utn.se       |
+| Lokalansvarig  | Signe Löfquist | mat-lokal@utn.se       |
+| Utbildningsansvarig  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
+| Studiesocialt ansvarig  |  Minoo Sjögren | mat-soc@utn.se       |
 |**Andra poster**                        ||                        |
-| Möbius Tech            | | mat-tech@utn.se        |
+| Möbius Tech            | Björn Bollen | mat-tech@utn.se        |
 | Spårtansvarig            | Lukas Rydbom | mat-idrott@utn.se        |
-| Arbetsmarknadsanvarig             | Henry Sumpter  | mat-arb@utn.se        |
-| Internationellt ansvarig              | Vincent Vilanueva  | mat-int@utn.se        |
+| Arbetsmarknadsanvarig             | Oskar Lutterbeck  | mat-arb@utn.se        |
+| Internationellt ansvarig              | Vincent Villanueva  | mat-int@utn.se        |
 
 ## Representanter som tillsätts
 

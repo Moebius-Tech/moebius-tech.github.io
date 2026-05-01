@@ -2,7 +2,8 @@
 title = "Möbius"
 +++
 
-# Möbius
+![Möbius](/images/moebius.webp)
+<!-- # Möbius -->
 Moebius is the section association for the mathematics section (MAT) within [UTN](https://utn.se/en).
 Möbius is the section association that focuses on students of mathematics. However, everyone is welcome to join! We have a room in [house 18](https://link.mazemap.com/ITtb4vV4) (the middle house of the red houses outside Ångström).
 
@@ -10,7 +11,7 @@ Here you can find likeminded or differentminded folk, who enjoys playing games, 
 
 ## What is a section association?
 
-The Uppsala Union of Science and Technology (UTN) divides all students into one of 20 different boxes, called sections. There are sections for subject teachers, technical physics and mathematics among several others. The mathematics section is called MAT. All sections have an associated section association that represents the students in the section. Möbius is the mathematicians' section association. A section association's task is to, among other things, monitor studies for the students.
+The Uppsala Union of Science and Technology (UTN) divides all students into one of 20 different boxes, called sections. There are sections for subject teachers, technical physics and mathematics among several others. The mathematics section is called MAT. All sections have an associated section association that represents the students in the section. Möbius is the mathematicians' section association. A section association's task is to, among other things, monitor studies for the students. The sections also have a section outfit, many other sections have overalls or lab coats. Most mathematicians have a black bathrobe. Möbius sells black bathrobes with a logo on the back.
 
 ## What is student monitoring?
 
@@ -28,28 +29,6 @@ If you want information about what is happening in and around Moebius then it is
 
 See [links](links.en.md).
 
-## Documents
-
-[Game](/dokument/spel.pdf)
-
-[Statutes (in Swedish)](/dokument/stadgar.pdf)
-
-[Working order (in Swedish)](/dokument/arbetsordning.pdf)
-
-[Medals](/dokument/ordensband.pdf)
-
-[Document template](/dokument/mall.zip)
-
-[Want something for the shop?](https://docs.google.com/forms/d/e/1FAIpQLSfx6-tQL_ONTX-kjNsnxzjoMd8MH3prFYbWhi32qUf2_xG_ew/viewform)
-
-[Old exams (temporary solution)](https://drive.google.com/drive/folders/1ETstHLmkj21zCpF3egTAo0l-XJjlZQ84?usp=sharing)
-
-[Songbook](/dokument/Sångbok.pdf)
-
-<!-- <a href="gamla-tentor" target"_blank">Old exams</a> -->
-  <!-- <br> -->
-  <!-- If you want to add an old exam, send the exam to mat-tech@utn.se. Name the file "Course_yymmdd.pdf", if it is only solutions then name it "Course_yymmdd_losn.pdf". If it is the exam and solutions, name the file "Course_yymmdd_mlosn.pdf". -->
-
 ## Contact
 The best way to get in touch with the association is to send an email to the president, however contacting anyone is also possible.
 If you have concerns or feedback about your studies, you can anonymously (or not) Moebius via [this link](https://forms.gle/iuanD1wckwgoKKAp9).
@@ -57,19 +36,19 @@ If you have concerns or feedback about your studies, you can anonymously (or not
 The board sits one year at a time and are elected on the spring meeting in March or April and begin their term in the beginning of May.
 | The board                        ||                        |
 |------------------------|-|------------------------|
-| President Moebius     | Minoo Sjögren | mat-ordf@utn.se        |
-| Vice President Möbius | Frida Nordahl | mat-vice@utn.se        |
-| Master of coins Moebius         | 	Oskar Lutterbeck | mat-kassor@utn.se      |
-| Secretary Möbius     | 	Ellen Pelander | mat-sekreterare@utn.se |
-| Master of club Moebius   | Olle Nilsson | mat-klubb@utn.se       |
-| Master of space Möbius  | Simon Lindblom | mat-lokal@utn.se       |
-| Master of education Moebius  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
-| Master of study social Möbius  | Aamos Ranta | mat-soc@utn.se       |
+| President      | Ebba Brunvall | mat-ordf@utn.se        |
+| Vice President  | Tea Rännar | mat-vice@utn.se        |
+| Treasurer         | Emiliano Lievano Parmstrand | mat-kassor@utn.se      |
+| Secretary    | 	Axel Lönnstedt | mat-sekreterare@utn.se |
+| Master of Club   | Vincent Villanueva | mat-klubb@utn.se       |
+| Master of Space  | Signe Löfquist | mat-lokal@utn.se       |
+| Head of Education  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
+| Head of Student Welfare  | Minoo Sjögren | mat-soc@utn.se       |
 | **Other positions**            | |         |
-| Möbius Tech            | | mat-tech@utn.se        |
-| Master of sport            | Lukas Rydbom | mat-idrott@utn.se        |
-|  Master of Labor Market             | Henry Sumpter  | mat-arb@utn.se        |
-|  Master of Internationality              | Vincent Vilanueva  | mat-int@utn.se        |
+| Möbius Tech            | Björn Bollen | mat-tech@utn.se        |
+| Master of Sport            | Lukas Rydbom | mat-idrott@utn.se        |
+|  Master of Labor Market             | Oskar Lutterbeck  | mat-arb@utn.se        |
+|  Master of Internationality              | Vincent Villanueva  | mat-int@utn.se        |
 
 
 

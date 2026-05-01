@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ $base := "static/Exams" }}
+
+{{ range sort (readDir $base) "Name" }}
+  {{ if .IsDir }}
+
+    {{ $course := .Name }}
+    {{ $coursePath := printf "%s/%s" $base $course }}
+
+    <details class="exam-course">
+      <summary>{{ replace $course "_" " " }}</summary>
+
+      <ul>
+        {{ range sort (readDir $coursePath) "Name" "desc" }}
+          {{ if strings.HasSuffix .Name ".pdf" }}
+
+            {{/* --- Filename cleanup --- */}}
+            {{ $raw := replace .Name ".pdf" "" }}
+            {{ $clean := replace $raw "_" " " }}
+
+            {{/* --- Detect year (first 4-digit number) --- */}}
+            {{ $year := findRE `[12][0-9]{5}` $clean }}
+
+            {{/* --- Detect solution vs exam --- */}}
+            {{ $isSolution := or
+                (in $clean "lösning")
+                (in $clean "sning")
+                (in $clean "los")
+                (in $clean "losning")
+                (in $clean "Lösning")
+                (in $clean "solution")
+            }}
+
+            <li>
+              {{ if $isSolution }}🧠{{ else }}📝{{ end }}
+              <a href="/Exams/{{ $course }}/{{ .Name }}" target="_blank">
+                {{ $clean }}
+                {{ if gt (len $year) 0 }} ({{ index $year 0 }}){{ end }}
+              </a>
+            </li>
+
+          {{ end }}
+        {{ end }}
+      </ul>
+
+    </details>
+
+  {{ end }}
+{{ end }}
+
+{{ end }}

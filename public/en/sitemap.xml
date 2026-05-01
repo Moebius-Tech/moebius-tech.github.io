@@ -2,64 +2,184 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://moebius.nu/donera/annan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:1313/sv/categories/"
+                href="https://moebius.nu/sv/donera/annan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/"
+                href="https://moebius.nu/donera/annan/"
                 />
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://moebius.nu/arkiv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:1313/sv/links/"
+                href="https://moebius.nu/sv/arkiv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/links/"
+                href="https://moebius.nu/arkiv/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://moebius.nu/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:1313/sv/"
+                href="https://moebius.nu/sv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="https://moebius.nu/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/moebius-sol/</loc>
+    <loc>https://moebius.nu/donera/danske/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:1313/sv/moebius-sol/"
+                href="https://moebius.nu/sv/donera/danske/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/moebius-sol/"
+                href="https://moebius.nu/donera/danske/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://moebius.nu/donera/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:1313/sv/tags/"
+                href="https://moebius.nu/sv/donera/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/"
+                href="https://moebius.nu/donera/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/donera/swedbank/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/donera/swedbank/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/donera/swedbank/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/links/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/donera/handelsbanken/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/donera/handelsbanken/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/donera/handelsbanken/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/donera/lans/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/donera/lans/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/donera/lans/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/donera/link/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/donera/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/donera/link/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/moebius-sol/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/moebius-sol/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/moebius-sol/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/donera/nordea/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/donera/nordea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/donera/nordea/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/exams/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/exams/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/exams/"
+                />
+  </url><url>
+    <loc>https://moebius.nu/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://moebius.nu/sv/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://moebius.nu/tags/"
                 />
   </url>
 </urlset>

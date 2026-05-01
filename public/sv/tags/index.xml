@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Moebius</title>
-    <link>http://localhost:1313/sv/tags/</link>
+    <link>https://moebius.nu/sv/tags/</link>
     <description>Recent content in Tags on Moebius</description>
     <generator>Hugo</generator>
     <language>sv</language>
-    <atom:link href="http://localhost:1313/sv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://moebius.nu/sv/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,0 +1,35 @@
+/* Table styling for historia/styrelser page */
+.historia-styrelser table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.historia-styrelser td,
+.historia-styrelser th {
+  padding: 4px 6px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.historia-styrelser th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+/* First column (year) - narrower using nth-child */
+.historia-styrelser tr > td:nth-child(1),
+.historia-styrelser tr > th:nth-child(1) {
+  width: 80px;
+  white-space: nowrap;
+}
+
+@media (prefers-color-scheme: dark) {
+  .historia-styrelser td,
+  .historia-styrelser th {
+    border-color: #555;
+  }
+
+  .historia-styrelser th {
+    background-color: #444;
+  }
+}

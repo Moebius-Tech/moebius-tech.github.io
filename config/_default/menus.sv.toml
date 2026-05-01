@@ -9,6 +9,16 @@
   weight = 40
 
 [[main]]
-  name = 'Externa Länkar'
+  name = 'Länkar'
   pageRef = '/links'
   weight = 50
+
+[[main]]
+  name = 'Arkiv'
+  pageRef = '/arkiv'
+  weight = 60
+
+[[main]]
+  name = 'Donera'
+  pageRef = '/donera'
+  weight = 70

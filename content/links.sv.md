@@ -21,6 +21,8 @@ title = "Externa Länkar"
 Moebius har även en idrottsgren som brukade spela innebandy, för tillfället är den inte aktiv. För att få reda på mer om dessa så har Möbius idrott en Facebookgrupp:
 [Facebook](https://www.facebook.com/groups/995975683755553/)
 
+[Vill du ha någonting till kiosken?](https://docs.google.com/forms/d/e/1FAIpQLSfx6-tQL_ONTX-kjNsnxzjoMd8MH3prFYbWhi32qUf2_xG_ew/viewform)
+
 ## Andra länkar
 
 [IUPAK](https://iupak.utn.se/)

@@ -1,31 +1,34 @@
-Detta är Möbius hemsida som skapades 2023.
+# moebius-techare.github.io
+Moebius hemsida
 
-För att uppdatera hemsidan så behöver man inte gå in och pilla på serverdatorn. Det du behöver göra är att klona ner detta repo till din dator:
+# Allmänt
+
+Hur fungerar Möbius hemsida?
+
+Jo, allt styrs genom ett program som heter Hugo. Hugo är inte IUPAK:s kamel utan något annat. Nämligen ett program som tar .md-filer (en sådan som du läser just nu) och genererar en html-sida.
+
+Om du kikar vad det finns för mappar så är det ganska många och det kan se läskigt ut, men det är egentligen bara några stycken som du behöver känna till:
+
+- `content`: I denna mapp ligger alla filer som kommer att bli till hemsidan. Den som heter `index` kommer att bli hemsidan, i.e. `moebius.nu` kommer att displaya det som står i `index.md` och ligger i contentmappen. De andra kommer att bli till exempel `moebius.nu/links`. Notera att det av varje fil finns två varianter, `.en.md` och `.sv.md`. Som du säkert gissat så styr dessa den engelska och den svenska versionen av sidorna.
+
+- `public`: Hit kommer hemsidan som genereras, så man ska inte in och peta här, utan snarare bara läsa härifrån. För att testköra hemsidan lokalt, kör `hugo serve` i root-foldern, alltså där alla dessa mappar ligger. 
+
+- `themes`: Här ligger temat, den är kopierat från en annan repo och fungerar genom någon slags magi.
+
+- `config`: Här kan man knepa lite om man vill ha fler grejer i menyn och så och lite annat bus. 
+
+- `static`: Här ligger alla bilder och andra dokument.
+
+För att publicera hemsidan så är det bara att ändra det man vill göra och sen pusha, man behöver inte köra `hugo` utan det sköter github automagiskt.
+
+Hoppas detta hjälper dig, du framtida Möbiot
+
+*Sör'n*
+2025
+
+# Lägga till nya tentor / adding new exams
+
+Tentorna ligger i `static/Exams` och sedan en mapp per kurs. Lägg in tentorna där och namnge dem enligt vad andra tentor heter, alltså `Kurs ååmmdd` och `Kurs ååmmdd losn` för lösningar. Sedan är det bara att göra en pull-request och github löser resten.
 
 
-```
-git clone https://github.com/Moebius-Techare/moebius-hemsida
-```
-
-Kika in i den mappen. Sen behöver du lägga till serverdatorn som ett externt repo genom följade kommando:
-
-```
-git remote add web ssh://tech@ip/home/tech/hemsida
-```
-
-Där man ersätter 'ip' med den ip som hittas på *hostup* som hostar hemsidan.
-Sen behöver man köra:
-
-```
-git push web +master:refs/heads/master
-```
-
-När man vill att servern ska få det som ligger på girrehurren.
-
-(Jag använde mig av denna guide: <https://toroid.org/git-website-howto>)
-
-Hemsidan fungerar som följande:
-
-I `content` ligger markdown-filer som genereras till html via kommandot `hugo`. Det finns svenska och engelska filer, det syns på `.sv.md` och `.en.md`. 
-
-Man kan genom att köra `./gen.sh` göra alla grejer automatiskt, kanske inte bästa ur ett säkerhetspespektiv men men...
+The exams are in `static/Exams`  and then one folder per course. Add the exams there and name them accordingly, i.e. `Course yymmdd` and `Course yymmdd losn` for solutions. The you just do a pull-request and github solves everything automatically.
